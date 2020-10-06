@@ -1,17 +1,5 @@
-# Spring Boot 2 Login Samples
 
-[![CircleCI](https://circleci.com/gh/auth0-samples/auth0-spring-boot-login-samples.svg?style=svg)](https://circleci.com/gh/auth0-samples/auth0-spring-boot-login-samples)
-
-https://circleci.com/gh/auth0-samples/auth0-spring-boot-login-samples.svg?style=svg
-
-This repository contains samples demonstrating how to add authentication with Auth0 to your Spring Boot application.
-
-- [MVC/Servlet sample](./mvc-login)
-- [WebFlux sample](./webflux-login)
-
-## What is Auth0?
-
-Auth0 helps you to:
+Auth0
 
 * Add authentication with [multiple authentication sources](https://docs.auth0.com/identityproviders), either social like **Google, Facebook, Microsoft Account, LinkedIn, GitHub, Twitter, Box, Salesforce, amont others**, or enterprise identity systems like **Windows Azure AD, Google Apps, Active Directory, ADFS or any SAML Identity Provider**.
 * Add authentication through more traditional **[username/password databases](https://docs.auth0.com/mysql-connection-tutorial)**.
