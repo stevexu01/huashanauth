@@ -32,7 +32,6 @@ build/
 
 target/
 .DS_Store
-application.yml
 
 ### auth0?
 .github/
