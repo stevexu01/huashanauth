@@ -48,7 +48,7 @@ https://pnpinfos.auth0.com/.well-known/jwks.json
 curl --request POST \
   --url https://pnpinfos.auth0.com/oauth/token \
   --header 'content-type: application/json' \
-  --data '{"client_id":"Yv8ag5pKdScgQwTZ5eC7EArHWdKQ2J5k","client_secret":"bTvFM5XXujxAG3m9FvCNMYrI5ZFv24TJdq2lJze_SYNVvPF7rURsfL-YhzU6M5I9","audience":"https://appointments","grant_type":"client_credentials"}' | jq
+  --data '{"client_id":"","client_secret":"","audience":"https://appointments","grant_type":"client_credentials"}' | jq
 
 ** access api at http://localhost:4000/authorized
 curl --request GET \
